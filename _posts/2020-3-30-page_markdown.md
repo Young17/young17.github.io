@@ -8,8 +8,6 @@ author: young
 ---
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 https://www.jianshu.com/p/3ae7ba111997
 
-<article class="_2rhmJa">
-
 ## 网址转 markdown
 
 [TabCopy - Chrome 网上应用店](https://link.jianshu.com?t=https://chrome.google.com/webstore/detail/tabcopy/micdllihgoppmejpecmkilggmaagfdmb/reviews)
@@ -25,5 +23,3 @@ Mweb 打开可以显示图像。textnut 不可以！
 
 [Bear Chrome extension - Chrome 网上应用店](https://link.jianshu.com?t=https://chrome.google.com/webstore/detail/bear-chrome-extension/bipgnccfcjnfnpnnllchfeillaekkofo?utm_source=chrome-ntp-icon)
 效果不错，就是有点慢！
-
-</article>
