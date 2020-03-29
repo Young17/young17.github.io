@@ -3,7 +3,7 @@ layout: post
 title: "plant uml 用法"
 date:   2020-3-30
 tags: [后台开发]
-comments: true
+comments: false
 author: young
 ---
 
