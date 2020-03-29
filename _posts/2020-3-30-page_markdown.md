@@ -1,3 +1,11 @@
+---
+layout: post
+title: "我分析几个一线城市的近千份岗位招聘需求，得出应该这么准备找工作"
+date:   2020-3-30
+tags: [后台开发]
+comments: true
+author: young
+---
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 https://www.jianshu.com/p/3ae7ba111997
 
 <article class="_2rhmJa">
