@@ -6,7 +6,7 @@ tags: [后台开发]
 comments: true
 author: young
 ---
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 https://www.jianshu.com/p/3ae7ba111997
+> 原文地址 https://www.jianshu.com/p/3ae7ba111997
 
 ## 网址转 markdown
 
