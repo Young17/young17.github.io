@@ -7,7 +7,7 @@ comments: false
 author: young
 ---
 
-> 原文地址 https://www.cnblogs.com/ChanWunsam/p/9863154.html
+> [原文地址](https://www.cnblogs.com/ChanWunsam/p/9863154.html)
 
 [使用 Sublime + PlantUML 高效地画图](https://www.jianshu.com/p/e92a52770832)
 [一分钟 Sublime Text 搭建 PlantUML 生成环境](https://www.jianshu.com/p/d5fd9133c78a)
